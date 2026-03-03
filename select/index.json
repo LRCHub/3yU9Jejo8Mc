@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Soup for One (12\" Version)",
+  "base_artist": "Chic",
+  "createdAt": "2026-03-03T12:12:58.788214Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soup for One (12\" Mix)",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/01_Soup_for_One_(12__Mix)_Chic.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soup for One",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/02_Soup_for_One_Chic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soup For One",
+      "artist": "Chic",
+      "has_synced": true,
+      "path": "select/03_Soup_For_One_Chic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soup for One (12 inch version)",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/04_Soup_for_One_(12_inch_version)_Chic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soup for One",
+      "artist": "Chic",
+      "has_synced": true,
+      "path": "select/05_Soup_for_One_Chic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soup for One",
+      "artist": "Chic",
+      "has_synced": true,
+      "path": "select/06_Soup_for_One_Chic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Soup for One",
+      "artist": "Chic",
+      "has_synced": true,
+      "path": "select/07_Soup_for_One_Chic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soup for One (12″ version)",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/08_Soup_for_One_(12′′_version)_Chic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soup for One (LP Version)",
+      "artist": "Chic",
+      "has_synced": true,
+      "path": "select/09_Soup_for_One_(LP_Version)_Chic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Soup for One (12\" Version)",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/10_Soup_for_One_(12__Version)_Chic.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Soup For One-Chic",
+      "artist": "Soup For One",
+      "has_synced": true,
+      "path": "select/11_Soup_For_One-Chic_Soup_For_One.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Soup for One - Chic",
+      "artist": "Chic",
+      "has_synced": true,
+      "path": "select/12_Soup_for_One_-_Chic_Chic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Soup For One (12 Inch Version)",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/13_Soup_For_One_(12_Inch_Version)_Various.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Soup for One",
+      "artist": "Chic, Chic",
+      "has_synced": true,
+      "path": "select/14_Soup_for_One_Chic,_Chic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Soup For One (12 Inch Version)",
+      "artist": "Dance Classics",
+      "has_synced": false,
+      "path": "select/15_Soup_For_One_(12_Inch_Version)_Dance_Classics.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soup For One",
+      "artist": "Chic",
+      "has_synced": false,
+      "path": "select/pl_01_Soup_For_One_Chic.txt"
+    }
+  ]
+}
